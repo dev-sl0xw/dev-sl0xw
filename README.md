@@ -55,14 +55,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-sl0xw/dev-sl0xw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-sl0xw/dev-sl0xw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-sl0xw/dev-sl0xw/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=0058aa&height=150&section=footer&text=&fontSize=90)
 
 
