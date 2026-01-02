@@ -7,7 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/seongcheol-mun-29636334a">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -25,7 +27,7 @@
 ###
 
 <p align="left"> 1. Perfection is a lie.</p>
-<p align="left"> 2. Keep sustainability.</p>
+<p align="left"> 2. Cultivate a sustainable mindset.</p>
 <p align="left"> 3. Learn how to learn.</p>
 
 ###
