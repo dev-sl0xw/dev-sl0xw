@@ -16,7 +16,17 @@
 
 ###
 
-<p align="left">👋 Hi, I'm sl0xw from South Korea🇰🇷<br> <br>- 🧑🏻‍💻 Now, I’m working in Tokyo, Japan🇯🇵<br>- 📚 I'm currently learning AWS&Google Cloud<br>- ⚡ In my free time I Programming Study or Hangout</p>
+<p align="left">👋 Hi, I'm Mason from South Korea🇰🇷<br> <br> 🧑🏻‍💻 Now, I’m working in Tokyo, Japan🗼<br> 📚 I'm currently learning AWS&Google Cloud<br> ⚡ In my free time I Programming Study or Hangout</p>
+
+###
+
+<h3 align="left">🤟 Mindset</h3>
+
+###
+
+<p align="left"> 1. Perfection is a lie.</p>
+<p align="left"> 2. Keep sustainability.</p>
+<p align="left"> 3. Learn how to learn.</p>
 
 ###
 
